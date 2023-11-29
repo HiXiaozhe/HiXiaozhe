@@ -21,13 +21,12 @@
     <img src="https://komarev.com/ghpvc/?username=HiXiaozhe&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 #  🙋 Hello
@@ -183,20 +182,8 @@ mindmap
 <!-- Awesome repo 比较好的仓库-->
 <a href="https://github.com/HiXiaozhe/iDF_Blog">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=HiXiaozhe&repo=iDF_Blog&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/HiXiaozhe/HiXiaozhe">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=HiXiaozhe&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
-
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/assets/images/hr.gif" />
-
-<!-- GitHub metrics 信息指标 -->
-<div align="center">
 
 <!-- just img 图片 -->
 <img width="36%" src="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/assets/images/githubgif.gif" />
-
-
 
 </div>
