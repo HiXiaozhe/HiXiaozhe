@@ -40,12 +40,12 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/assets/images/steven.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/assets/images/avatar.jpg" />
 
 <p>&emsp;&emsp;大家好，我是小哲同学。</p>
-<p>&emsp;&emsp;热爱音乐、美食、旅行。</p>
-<p>&emsp;&emsp;一个编程小菜鸡，励志成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;emmmm</p>
+<p>&emsp;&emsp;热爱音乐、美食、旅行、游戏。</p>
+<p>&emsp;&emsp;一个编程小菜鸡，但励志成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;哎呦！不错呦！</p>
 
 
 </td></tr>
@@ -77,108 +77,8 @@
 * <a href='https://blog.csdn.net/m0_62263111/article/details/133944030?spm=1001.2014.3001.5502' target='_blank'>leetcode16.最接近的三数之和</a> - 2023-10-20
 * <a href='https://blog.csdn.net/m0_62263111/article/details/133929282?spm=1001.2014.3001.5502' target='_blank'>leetcode15.三数之和</a> - 2023-10-19
 <!-- END_SECTION:blog -->
-
 </td></tr>
 
-<tr><td>
-
-<!-- ### 🧠 Second Brain
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" /> -->
-
-<!-- START_SECTION:brain -->
-<!-- * <a href='https://brain.sunguoqi.com/ai/basic/test.html' target='_blank'>前言</a> - 2023-10-19
-* <a href='https://brain.sunguoqi.com/dv/foreword/about.html' target='_blank'>我与数据可视化</a> - 2023-10-19
-* <a href='https://brain.sunguoqi.com/en/advanced-guide/test.html' target='_blank'>前言</a> - 2023-10-19
-* <a href='https://brain.sunguoqi.com/en/basic/test.html' target='_blank'>前言</a> - 2023-10-19
-* <a href='https://brain.sunguoqi.com/en/programmer-english/test.html' target='_blank'>前言</a> - 2023-10-19 -->
-<!-- END_SECTION:brain -->
-
-<!-- </td></tr>
-
-<tr><td> -->
-
-<!-- ### 🤾‍♂️ Funny Soul
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" /> -->
-
-<!-- START_SECTION:douban -->
-<!-- * <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07 -->
-<!-- END_SECTION:douban -->
-<!-- 
-</td></tr>
-
-<tr><td> -->
-
-<!-- wakatime 统计 -->
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=HiXiaozhe&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=HiXiaozhe&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HiXiaozhe&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<!-- <tr><td> -->
-
-<!--START_SECTION:waka-->
-<!-- **I'm an Early 🐤** 
-
-```text
-🌞 Morning                415 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-🌆 Daytime                582 commits         ████████░░░░░░░░░░░░░░░░░   31.06 % 
-🌃 Evening                570 commits         ████████░░░░░░░░░░░░░░░░░   30.42 % 
-🌙 Night                  307 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-``` -->
-<!-- 📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Tuesday                  208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Wednesday                223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Thursday                 225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Friday                   519 commits         ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-Saturday                 182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Sunday                   279 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-``` -->
-
-
-<!-- 📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-YAML                     16 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   37.70 % 
-Vue.js                   9 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-Markdown                 6 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-JavaScript               2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-CSS                      2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-
-🔥 Editors: 
-VS Code                  44 hrs 16 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      44 hrs 16 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28/11/2023 01:17:39 UTC -->
-<!--END_SECTION:waka-->
-<!--   
-</td></tr> -->
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -188,13 +88,15 @@ Mac                      44 hrs 16 mins      ███████████�
 
 ```mermaid
 mindmap
-  root((小孙同学))
+  root((小哲同学))
     编程
       Web开发
-      网络爬虫
-      人工智能
-    摄影
-      风光
+      强化学习
+      区块链
+      计算机动画
+      虚拟现实
+    音乐
+      周杰伦
     旅行
       广州
       苏州
@@ -202,7 +104,7 @@ mindmap
       滁州
       合肥
       寿县
-    阅读
+    游戏
       人物传记
       个人成长
       社会文化
@@ -210,7 +112,7 @@ mindmap
 ```
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
