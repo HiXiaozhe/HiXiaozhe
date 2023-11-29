@@ -12,22 +12,22 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <!-- <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp; -->
-    <!-- <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp; -->
-    <!-- <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp; -->
     <a href="https://blog.csdn.net/m0_62263111?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <!-- <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp; -->
+    <!-- <a href=""><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp; -->
+    <!-- <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp; -->
+    <!-- <a href=""><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp; -->
+    <!-- <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp; -->
     <!-- <a href="https://space.bilibili.com/1073196726?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp; -->
-    <!-- <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp; -->
+    <!-- <a href=""><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp; -->
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=HiXiaozhe&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -40,7 +40,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/assets/images/steven.png" />
 
 <p>&emsp;&emsp;大家好，我是小哲同学。</p>
 <p>&emsp;&emsp;热爱音乐、美食、旅行。</p>
@@ -55,7 +55,7 @@
   
 ### 🏢 Study Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/assets/images/tuhui.png" />
 
 - [北京理工大学](https://bit.edu.cn/) &emsp; 📌 2021-09-01 —— Now
   
@@ -70,7 +70,7 @@
 <!-- 近期博客 -->
 ### 📃 Recent Blog
   
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
 * <a href='https://blog.csdn.net/m0_62263111/article/details/133962553?spm=1001.2014.3001.5502' target='_blank'>leetcode18.四数之和</a> - 2023-10-21
@@ -131,18 +131,18 @@
 
 </td></tr>
 
-<tr><td>
+<!-- <tr><td> -->
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+<!-- **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                415 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
 🌆 Daytime                582 commits         ████████░░░░░░░░░░░░░░░░░   31.06 % 
 🌃 Evening                570 commits         ████████░░░░░░░░░░░░░░░░░   30.42 % 
 🌙 Night                  307 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-```
-📅 **I'm Most Productive on Friday** 
+``` -->
+<!-- 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
@@ -152,10 +152,10 @@ Thursday                 225 commits         ███░░░░░░░░�
 Friday                   519 commits         ███████░░░░░░░░░░░░░░░░░░   27.69 % 
 Saturday                 182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 Sunday                   279 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-```
+``` -->
 
 
-📊 **This Week I Spent My Time On** 
+<!-- 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
@@ -175,10 +175,10 @@ Mac                      44 hrs 16 mins      ███████████�
 ```
 
 
- Last Updated on 28/11/2023 01:17:39 UTC
+ Last Updated on 28/11/2023 01:17:39 UTC -->
 <!--END_SECTION:waka-->
-  
-</td></tr>
+<!--   
+</td></tr> -->
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
