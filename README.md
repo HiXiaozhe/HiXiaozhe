@@ -55,7 +55,7 @@
   
 ### 🏢 Study Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/assets/images/tuhui.jpg" />
 
 - [北京理工大学](https://bit.edu.cn/) &emsp; 📌 2021-09-01 —— Now
   
