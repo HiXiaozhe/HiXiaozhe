@@ -131,12 +131,6 @@ mindmap
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=c,cpp,twitter,instagram,idea,git" /><br>
 
-<!-- svg -->
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-
 <!-- gif -->
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/assets/images/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HiXiaozhe/HiXiaozhe/assets/images/cssgif.webp">
